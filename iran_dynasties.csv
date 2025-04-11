@@ -1,0 +1,11 @@
+id,name,start_date,end_date,color
+1,Achaemenid Empire,550 BC,330 BC,#FF6B6B
+2,Seleucid Empire,312 BC,63 BC,#4ECDC4
+3,Parthian Empire,247 BC,224 AD,#45B7D1
+4,Sasanian Empire,224 AD,651 AD,#96CEB4
+5,Umayyad Caliphate,661 AD,750 AD,#FFEEAD
+6,Abbasid Caliphate,750 AD,861 AD,#D4A5A5
+7,Samanid Dynasty,819 AD,999 AD,#9B59B6
+8,Ghaznavid Dynasty,977 AD,1186 AD,#3498DB
+9,Seljuk Empire,1037 AD,1194 AD,#E74C3C
+10,Safavid Dynasty,1501 AD,1736 AD,#2ECC71

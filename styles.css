@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#visualization {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #ccc;
+}
+
+.vis-item.dynasty {
+    height: 30px;
+    line-height: 30px;
+    z-index: 1;
+    border: none;
+    background-color: inherit; /* Use CSV color */
+}
+
+.vis-item.king {
+    border-width: 0 0 1px 0 !important;
+    border-style: solid !important;
+    height: 2px !important;
+    min-height: 0 !important;
+    max-height: 2px !important;
+    z-index: 2;
+    background: none !important;
+}
+
+.vis-item.king .vis-item-content {
+    padding: 0;
+    position: relative;
+    top: -16px; /* Label above the line */
+    height: auto;
+}
+
+.vis-item.king img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.vis-item.king .vis-item-overflow {
+    overflow: visible !important;
+}
+
+.vis-item.event {
+    z-index: 3;
+}
+
+.vis-item.scholar {
+    border-width: 0 0 1px 0 !important;
+    border-style: solid !important;
+    border-color: #8B4513 !important;
+    height: 2px !important;
+    min-height: 0 !important;
+    max-height: 2px !important;
+    z-index: 2;
+    color: #8B4513;
+    background: none !important;
+}
+
+.vis-item.scholar .vis-item-content {
+    padding: 0;
+    position: relative;
+    top: -16px; /* Label above the line */
+    height: auto;
+}
+
+.vis-item.scholar img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.vis-item.scholar .vis-item-overflow {
+    overflow: visible !important;
+}
+
+#controls {
+    margin-bottom: 10px;
+}
+
+#controls label {
+    margin-right: 15px;
+}
+
+.vis-group.main {
+    height: 400px;
+}
+
+.vis-group.scholars {
+    height: 180px;
+    margin-top: 20px;
+}
+
+.vis-time-axis {
+    background-color: #fff;
+    height: auto;
+}
+
+.vis-time-axis .vis-text {
+    color: #4d4d4d;
+    font-weight: normal;
+}
+
+.vis-panel.vis-center {
+    overflow: visible;
+}
+
+/* Tooltip styling */
+.vis-item .tooltip {
+    visibility: hidden;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: absolute;
+    z-index: 100;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    font-size: 14px;
+    max-width: 300px;
+    white-space: normal;
+}
+
+.vis-item:hover .tooltip {
+    visibility: visible;
+}
+
+.tooltip img {
+    max-width: 100px;
+    margin-bottom: 5px;
+}

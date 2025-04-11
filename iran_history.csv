@@ -1,0 +1,206 @@
+id,name,type,start_date,end_date,significance,dynasty_id,image,color,description
+1,Elamite Kingdom,dynasty,2700 BC,539 BC,4,,,#FF6F61,An ancient civilization in southwestern Iran.
+2,Median Empire,dynasty,678 BC,549 BC,4,,,#6B5B95,Unified Iran before the Achaemenid rise.
+3,Achaemenid Empire,dynasty,550 BC,330 BC,5,,,#88B04B,Founded by Cyrus it became a vast empire.
+4,Seleucid Empire,dynasty,312 BC,63 BC,4,,,#F7CAC9,Hellenistic rule followed Alexander’s conquests.
+5,Parthian Empire,dynasty,247 BC,224 AD,5,,,#92A8D1,Famed for archery and Roman resistance.
+6,Greco-Bactrian Kingdom,dynasty,256 BC,125 BC,3,,,#955251,A Hellenistic state in Central Asia.
+7,Sasanian Empire,dynasty,224 AD,651 AD,5,,,#B565A7,The last pre-Islamic Persian empire.
+8,Umayyad Caliphate,dynasty,661 AD,750 AD,4,,,#009B77,Introduced Islam to Persian lands.
+9,Abbasid Caliphate,dynasty,750 AD,1258 AD,5,,,#DD4124,Cultural golden age under Baghdad’s rule.
+10,Tahirid Dynasty,dynasty,821 AD,873 AD,3,,,#45B7D1,First semi-independent Persian rule.
+11,Saffarid Dynasty,dynasty,861 AD,1003 AD,3,,,#FFD700,Ya'qub Saffari defied Abbasid control.
+12,Samanid Empire,dynasty,819 AD,999 AD,4,,,#4682B4,Revived Persian language and culture.
+13,Buyid Dynasty,dynasty,934 AD,1062 AD,4,,,#DAA520,Shia rulers dominated western Iran.
+14,Ghaznavid Dynasty,dynasty,977 AD,1186 AD,4,,,#9ACD32,Mahmud expanded into India.
+15,Seljuk Empire,dynasty,1037 AD,1194 AD,5,,,#CD5C5C,Turkish dynasty reshaped Persia.
+16,Khwarazmian Dynasty,dynasty,1077 AD,1231 AD,4,,,#FF4500,Fell to Mongol invasions.
+17,Ilkhanate,dynasty,1256 AD,1335 AD,4,,,#20B2AA,Mongol rulers adopted Persian ways.
+18,Muizzuddin Dynasty,dynasty,1206 AD,1290 AD,3,,,#8A2BE2,Ghorid successors ruled briefly.
+19,Timurid Empire,dynasty,1370 AD,1507 AD,5,,,#FF1493,Timur’s empire mixed war and art.
+20,Chagatai Khanate,dynasty,1225 AD,1687 AD,3,,,#00CED1,Mongol rule lingered in the east.
+21,Safavid Empire,dynasty,1501 AD,1736 AD,5,,,#FFA500,Established Shia Islam in Persia.
+22,Afsharid Dynasty,dynasty,1736 AD,1796 AD,4,,,#32CD32,Nader Shah’s brief but powerful reign.
+23,Zand Dynasty,dynasty,1751 AD,1794 AD,4,,,#9932CC,Karim Khan brought stability.
+24,Qajar Dynasty,dynasty,1789 AD,1925 AD,4,,,#00FF7F,Modernized Persia under pressure.
+25,Pahlavi Dynasty,dynasty,1925 AD,1979 AD,4,,,#FF69B4,Reza Shah reformed Iran.
+26,Deylaman Dynasty,dynasty,928 AD,1090 AD,3,,,#ADFF2F,Minor Shia rule in the north.
+27,Ziyarid Dynasty,dynasty,931 AD,1090 AD,3,,,#FF6347,Controlled Caspian regions.
+28,Jalayirid Dynasty,dynasty,1335 AD,1432 AD,3,,,#40E0D0,Mongol successors in western Iran.
+29,Marashis,dynasty,1359 AD,1596 AD,2,,,#DC143C,Local rule in Mazandaran.
+30,Hotak Dynasty,dynasty,1709 AD,1738 AD,3,,,#7B68EE,Afghan dynasty briefly held Persia.
+31,Kara Koyunlu,dynasty,1375 AD,1468 AD,4,,,#FF00FF,Turkmen rulers opposed Timurids.
+32,Aq Qoyunlu,dynasty,1378 AD,1508 AD,4,,,#00FA9A,Rivaled Ottomans in the east.
+33,Shamlu Tribe,dynasty,1500 AD,1722 AD,2,,,#1E90FF,Qizilbash tribe under Safavids.
+34,Kayanian Dynasty,dynasty,1500 BC,1000 BC,3,,,#FF4500,Legendary rulers in Persian myth.
+35,Mannaeans,dynasty,850 BC,616 BC,3,,,#DDA0DD,Northwestern Iranian kingdom.
+36,Urartu,dynasty,860 BC,590 BC,3,,,#9B30FF,Rivaled Assyria near Lake Van.
+37,Neo-Elamite,dynasty,743 BC,539 BC,3,,,#FFDAB9,Revived Elamite power briefly.
+38,Scythians,dynasty,800 BC,300 BC,3,,,#7CFC00,Nomadic rulers in the steppe.
+39,Kushan Empire,dynasty,30 AD,375 AD,4,,,#BA55D3,Controlled eastern Persian lands.
+40,Alid Dynasties,dynasty,864 AD,1124 AD,3,,,#66CDAA,Shia rulers in northern Iran.
+41,Shamkir,king,2700 BC,2680 BC,2,1,,,Shamkir ruled early Elamite lands.
+42,Awan,king,2600 BC,2580 BC,2,1,,,Awan expanded Elamite influence.
+43,Cyaxares,king,625 BC,585 BC,4,2,,,Cyaxares built Median power.
+44,Astyages,king,585 BC,550 BC,4,2,,,Astyages fell to Cyrus.
+45,Cyrus the Great,king,559 BC,530 BC,5,3,,,Cyrus founded the Achaemenid Empire.
+46,Cambyses II,king,530 BC,522 BC,4,3,,,Cambyses II took Egypt.
+47,Darius I,king,522 BC,486 BC,5,3,,,Darius I built Persepolis.
+48,Xerxes I,king,486 BC,465 BC,4,3,,,Xerxes I invaded Greece.
+49,Artaxerxes I,king,465 BC,424 BC,3,3,,,Artaxerxes I stabilized rule.
+50,Darius III,king,336 BC,330 BC,4,3,,,Darius III lost to Alexander.
+51,Seleucus I,king,312 BC,281 BC,4,4,,,Seleucus I founded the Seleucid state.
+52,Antiochus III,king,223 BC,187 BC,4,4,,,Antiochus III fought Rome.
+53,Arsaces I,king,247 BC,211 BC,4,5,,,Arsaces I began Parthian rule.
+54,Mithridates I,king,171 BC,138 BC,5,5,,,Mithridates I expanded Parthia.
+55,Orodes II,king,57 BC,37 BC,4,5,,,Orodes II defeated Crassus.
+56,Phraates IV,king,37 BC,2 BC,3,5,,,Phraates IV faced Roman plots.
+57,Artabanus I,king,127 BC,124 BC,2,5,,,Artabanus I ruled briefly.
+58,Phraates II,king,132 BC,127 BC,3,5,,,Phraates II repelled invaders.
+59,Mithridates II,king,123 BC,88 BC,4,5,,,Mithridates II strengthened Parthia.
+60,Demetrius II,king,145 BC,138 BC,3,6,,,Demetrius II ruled Greco-Bactria.
+61,Ardashir I,king,224 AD,242 AD,5,7,,,Ardashir I founded the Sasanian Empire.
+62,Shapur I,king,242 AD,272 AD,5,7,,,Shapur I captured Valerian.
+63,Shapur II,king,309 AD,379 AD,4,7,,,Shapur II regained territories.
+64,Yazdegerd I,king,399 AD,420 AD,3,7,,,Yazdegerd I tolerated Christians.
+65,Bahram V,king,420 AD,438 AD,3,7,,,Bahram V was a skilled hunter.
+66,Khosrow I,king,531 AD,579 AD,5,7,,,Khosrow I reformed the state.
+67,Hormizd IV,king,579 AD,590 AD,3,7,,,Hormizd IV faced revolts.
+68,Khosrow II,king,590 AD,628 AD,4,7,,,Khosrow II warred with Byzantium.
+69,Yazdegerd III,king,632 AD,651 AD,4,7,,,Yazdegerd III lost to Arabs.
+70,Muawiyah I,king,661 AD,680 AD,4,8,,,Muawiyah I founded Umayyad rule.
+71,Yazid I,king,680 AD,683 AD,3,8,,,Yazid I faced Karbala.
+72,Harun al-Rashid,king,786 AD,809 AD,5,9,,,Harun led a cultural peak.
+73,Al-Ma’mun,king,813 AD,833 AD,4,9,,,Al-Ma’mun advanced science.
+74,Al-Mu’tasim,king,833 AD,842 AD,3,9,,,Al-Mu’tasim shifted the capital.
+75,Al-Mutawakkil,king,847 AD,861 AD,3,9,,,Al-Mutawakkil built mosques.
+76,Tahir ibn Husayn,king,821 AD,822 AD,3,10,,,Tahir gained Persian autonomy.
+77,Ya'qub Saffari,king,861 AD,879 AD,4,11,,,Ya'qub defied Abbasid rule.
+78,Amr ibn Layth,king,879 AD,901 AD,3,11,,,Amr expanded Saffarid lands.
+79,Isma’il Samani,king,892 AD,907 AD,4,12,,,Isma’il revived Persian culture.
+80,Ahmad Samani,king,907 AD,914 AD,3,12,,,Ahmad continued Samanid rule.
+81,Adud al-Dawla,king,949 AD,983 AD,4,13,,,Adud al-Dawla unified Buyids.
+82,Mahmud of Ghazni,king,998 AD,1030 AD,5,14,,,Mahmud raided India often.
+83,Mas’ud I,king,1030 AD,1040 AD,3,14,,,Mas’ud I lost to Seljuks.
+84,Tughril Beg,king,1037 AD,1063 AD,4,15,,,Tughril Beg founded Seljuk rule.
+85,Alp Arslan,king,1063 AD,1072 AD,5,15,,,Alp Arslan won at Manzikert.
+86,Malik-Shah I,king,1072 AD,1092 AD,4,15,,,Malik-Shah I stabilized Persia.
+87,Sanjar,king,1118 AD,1157 AD,4,15,,,Sanjar ruled a vast domain.
+88,Shah Ala al-Din,king,1157 AD,1194 AD,3,15,,,Shah Ala al-Din ended Seljuks.
+89,Tekish,king,1172 AD,1200 AD,3,16,,,Tekish defied the caliph.
+90,Jalal al-Din,king,1220 AD,1231 AD,4,16,,,Jalal al-Din fought Mongols.
+91,Hulagu Khan,king,1256 AD,1265 AD,5,17,,,Hulagu Khan sacked Baghdad.
+92,Abaqa Khan,king,1265 AD,1282 AD,4,17,,,Abaqa Khan ruled firmly.
+93,Ghazan Khan,king,1295 AD,1304 AD,4,17,,,Ghazan Khan embraced Islam.
+94,Muhammad Khudabanda,king,1304 AD,1316 AD,3,17,,,Muhammad ruled Ilkhanate.
+95,Muhammad bin Tughluq,king,1220 AD,1250 AD,2,18,,,Muhammad ruled Muizzuddin briefly.
+96,Timur,king,1370 AD,1405 AD,5,19,,,Timur conquered ruthlessly.
+97,Shah Rukh,king,1405 AD,1447 AD,4,19,,,Shah Rukh fostered arts.
+98,Ulugh Beg,king,1417 AD,1449 AD,3,19,,,Ulugh Beg studied astronomy.
+99,Sultan Husayn Bayqara,king,1469 AD,1506 AD,3,19,,,Sultan Husayn patronized poets.
+100,Uzun Hasan,king,1453 AD,1478 AD,3,19,,,Uzun Hasan fought Ottomans.
+101,Mahmud Khan,king,1488 AD,1508 AD,2,20,,,Mahmud ruled Chagatai briefly.
+102,Ismail I,king,1501 AD,1524 AD,5,21,,,Ismail I made Shia official.
+103,Shah Tahmasp I,king,1524 AD,1576 AD,4,21,,,Shah Tahmasp I resisted Uzbeks.
+104,Shah Abbas I,king,1588 AD,1629 AD,5,21,,,Shah Abbas I built Isfahan.
+105,Shah Safi,king,1629 AD,1642 AD,3,21,,,Shah Safi faced decline.
+106,Shah Abbas II,king,1642 AD,1666 AD,3,21,,,Shah Abbas II stabilized rule.
+107,Shah Suleiman,king,1666 AD,1694 AD,3,21,,,Shah Suleiman saw decline.
+108,Shah Sultan Husayn,king,1694 AD,1722 AD,3,21,,,Shah Sultan Husayn lost to Afghans.
+109,Nader Shah,king,1736 AD,1747 AD,5,22,,,Nader Shah restored Persian might.
+110,Adil Shah,king,1747 AD,1748 AD,2,22,,,Adil Shah ruled briefly.
+111,Shahrokh Shah,king,1748 AD,1796 AD,3,22,,,Shahrokh Shah faced chaos.
+112,Karim Khan Zand,king,1751 AD,1779 AD,4,23,,,Karim Khan ruled with mercy.
+113,Lotf Ali Khan,king,1789 AD,1794 AD,3,23,,,Lotf Ali Khan lost to Qajars.
+114,Agha Mohammad Khan,king,1789 AD,1797 AD,4,24,,,Agha Mohammad Khan founded Qajar rule.
+115,Fath-Ali Shah,king,1797 AD,1834 AD,4,24,,,Fath-Ali Shah lost to Russia.
+116,Muhammad Shah Qajar,king,1834 AD,1848 AD,3,24,,,Muhammad Shah fought rebels.
+117,Nasir al-Din Shah,king,1848 AD,1896 AD,4,24,,,Nasir al-Din Shah modernized slowly.
+118,Mozaffar ad-Din Shah,king,1896 AD,1907 AD,3,24,,,Mozaffar granted a constitution.
+119,Muhammad Ali Shah,king,1907 AD,1909 AD,3,24,,,Muhammad Ali Shah opposed reforms.
+120,Ahmad Shah Qajar,king,1909 AD,1925 AD,3,24,,,Ahmad Shah saw Qajar end.
+121,Reza Shah Pahlavi,king,1925 AD,1941 AD,4,25,,,Reza Shah modernized Iran.
+122,Mohammad Reza Shah Pahlavi,king,1941 AD,1979 AD,4,25,,,Mohammad Reza Shah faced revolution.
+123,Humban-Tahrah,king,2500 BC,2480 BC,2,1,,,Humban-Tahrah led Elamite tribes.
+124,Artaxerxes II,king,404 BC,358 BC,3,3,,,Artaxerxes II faced rebellions.
+125,Antiochus IV,king,175 BC,164 BC,3,4,,,Antiochus IV clashed with Jews.
+126,Phraates I,king,176 BC,171 BC,2,5,,,Phraates I expanded Parthia.
+127,Vologases I,king,51 AD,78 AD,3,5,,,Vologases I fought Rome.
+128,Bahram I,king,271 AD,274 AD,2,7,,,Bahram I ruled briefly.
+129,Narseh,king,293 AD,302 AD,2,7,,,Narseh lost to Rome.
+130,Hormizd I,king,270 AD,271 AD,1,7,,,Hormizd I had a short reign.
+131,Abd al-Malik,king,685 AD,705 AD,3,8,,,Abd al-Malik reformed coins.
+132,Al-Mansur,king,754 AD,775 AD,4,9,,,Al-Mansur founded Baghdad.
+133,Tahir II,king,845 AD,862 AD,2,10,,,Tahir II ruled Khorasan.
+134,Nasr I,king,864 AD,892 AD,3,12,,,Nasr I stabilized Samanids.
+135,Fakhr al-Dawla,king,976 AD,997 AD,3,13,,,Fakhr al-Dawla held Shiraz.
+136,Toghrul II,king,1132 AD,1134 AD,2,15,,,Toghrul II ruled briefly.
+137,Arghun,king,1284 AD,1291 AD,3,17,,,Arghun ruled Ilkhanate.
+138,Abu Sa’id,king,1316 AD,1335 AD,3,17,,,Abu Sa’id ended Ilkhanate.
+139,Qara Yusuf,king,1388 AD,1420 AD,3,31,,,Qara Yusuf led Kara Koyunlu.
+140,Jahan Shah,king,1438 AD,1467 AD,3,31,,,Jahan Shah fought Timurids.
+141,Yakub Beg,king,1467 AD,1490 AD,3,32,,,Yakub Beg ruled Aq Qoyunlu.
+142,Shah Ismail II,king,1576 AD,1577 AD,2,21,,,Shah Ismail II ruled briefly.
+143,Ibrahim Afshar,king,1748 AD,1749 AD,2,22,,,Ibrahim Afshar ruled briefly.
+144,Jafar Khan,king,1785 AD,1789 AD,2,23,,,Jafar Khan ruled Zand briefly.
+145,Kiumarth,king,1500 BC,1480 BC,2,34,,,Kiumarth is a mythic king.
+146,Hushang,king,1480 BC,1460 BC,2,34,,,Hushang taught fire use.
+147,Tahmuras,king,1460 BC,1440 BC,2,34,,,Tahmuras fought demons.
+148,Jamshid,king,1440 BC,1420 BC,3,34,,,Jamshid ruled a golden age.
+149,Hakhamanish,king,700 BC,675 BC,2,3,,,Hakhamanish founded Achaemenid line.
+150,Chishpish,king,675 BC,650 BC,2,3,,,Chishpish ruled early Achaemenids.
+151,Vologases II,king,77 AD,80 AD,2,5,,,Vologases II ruled Parthia briefly.
+152,Pacorus II,king,78 AD,105 AD,3,5,,,Pacorus II resisted Rome.
+153,Osroes I,king,109 AD,129 AD,2,5,,,Osroes I faced Trajan.
+154,Tiridates I,king,63 AD,100 AD,3,5,,,Tiridates I was crowned by Nero.
+155,Bahram II,king,274 AD,283 AD,2,7,,,Bahram II ruled Sasanids.
+156,Bahram III,king,283 AD,283 AD,1,7,,,Bahram III reigned briefly.
+157,Shapur III,king,383 AD,388 AD,2,7,,,Shapur III made peace with Rome.
+158,Yazdegerd II,king,438 AD,457 AD,3,7,,,Yazdegerd II fought Huns.
+159,Hormizd II,king,302 AD,309 AD,2,7,,,Hormizd II ruled briefly.
+160,Bahram IV,king,388 AD,399 AD,2,7,,,Bahram IV ruled quietly.
+161,Al-Walid I,king,705 AD,715 AD,3,8,,,Al-Walid I expanded Umayyads.
+162,Umar II,king,717 AD,720 AD,3,8,,,Umar II reformed justly.
+163,Al-Mu’tadid,king,892 AD,902 AD,3,9,,,Al-Mu’tadid regained power.
+164,Al-Muktafi,king,902 AD,908 AD,2,9,,,Al-Muktafi ruled Abbasids.
+165,Nasr II,king,914 AD,943 AD,3,12,,,Nasr II faced rebellions.
+166,Rukn al-Dawla,king,935 AD,976 AD,3,13,,,Rukn al-Dawla held Buyid power.
+167,Barkiyaruq,king,1094 AD,1105 AD,3,15,,,Barkiyaruq fought kin.
+168,Muhammad I Tapar,king,1105 AD,1118 AD,3,15,,,Muhammad I stabilized Seljuks.
+169,Al-Mustarshid,king,1118 AD,1135 AD,2,9,,,Al-Mustarshid defied Seljuks.
+170,Abu Kalijar,king,1024 AD,1048 AD,2,13,,,Abu Kalijar ruled Buyids.
+171,Battle of Gaugamela,event,331 BC,,5,,,,Alexander defeated Darius III.
+172,Mongol Invasion,event,1219 AD,,5,,,,Genghis Khan ravaged Persia.
+173,Fall of Baghdad,event,1258 AD,,5,,,,Mongols ended Abbasid rule.
+174,Islamic Conquest,event,633 AD,,5,,,,Arabs brought Islam to Persia.
+175,Treaty of Gulistan,event,1813 AD,,4,,,,Persia lost to Russia.
+176,Constitutional Revolution,event,1905 AD,,4,,,,Persians won a constitution.
+177,Battle of Chaldiran,event,1514 AD,,4,,,,Safavids lost to Ottomans.
+178,Persian Expedition,event,326 BC,,3,,,,Alexander marched through Persia.
+179,Treaty of Turkmenchay,event,1828 AD,,3,,,,Qajars ceded more land.
+180,Anglo-Persian War,event,1856 AD,,3,,,,Britain forced Qajar terms.
+181,Assassination of Nader Shah,event,1747 AD,,4,,,,Nader Shah’s death ended Afsharids.
+182,Battle of Qadisiyyah,event,636 AD,,4,,,,Muslims defeated Sasanians.
+183,Treaty of Zuhab,event,1639 AD,,3,,,,Safavids and Ottomans set borders.
+184,Reza Shah’s Coup,event,1921 AD,,4,,,,Reza Shah seized power.
+185,Iranian Revolution,event,1979 AD,,5,,,,Pahlavi rule ended abruptly.
+186,Ferdowsi,scholar,940 AD,1020 AD,5,,,brown,Ferdowsi wrote the Shahnameh.
+187,Omar Khayyam,scholar,1048 AD,1131 AD,4,,,brown,Omar Khayyam penned Rubaiyat.
+188,Al-Biruni,scholar,973 AD,1048 AD,4,,,brown,Al-Biruni measured the earth.
+189,Avicenna,scholar,980 AD,1037 AD,5,,,brown,Avicenna advanced medicine.
+190,Rumi,scholar,1207 AD,1273 AD,5,,,brown,Rumi wrote mystical poetry.
+191,Saadi,scholar,1210 AD,1291 AD,4,,,brown,Saadi penned Gulistan.
+192,Hafez,scholar,1325 AD,1389 AD,4,,,brown,Hafez crafted lyrical poems.
+193,Jami,scholar,1414 AD,1492 AD,3,,,brown,Jami mixed poetry and mysticism.
+194,Nizami Ganjavi,scholar,1141 AD,1209 AD,4,,,brown,Nizami wrote epic romances.
+195,Attar,scholar,1145 AD,1221 AD,3,,,brown,Attar explored spiritual paths.
+196,Al-Ghazali,scholar,1058 AD,1111 AD,4,,,brown,Al-Ghazali shaped Islamic thought.
+197,Razi,scholar,865 AD,925 AD,4,,,brown,Razi pioneered chemistry.
+198,Tabari,scholar,839 AD,923 AD,3,,,brown,Tabari wrote Islamic history.
+199,Khwarizmi,scholar,780 AD,850 AD,4,,,brown,Khwarizmi invented algebra.
+200,Baba Tahir,scholar,1000 AD,1055 AD,3,,,brown,Baba Tahir sang folk verses.
+201,Nasir al-Din Tusi,scholar,1201 AD,1274 AD,4,,,brown,Tusi advanced astronomy.
+202,Farabi,scholar,872 AD,950 AD,4,,,brown,Farabi influenced philosophy.
+203,Ansari,scholar,1006 AD,1088 AD,3,,,brown,Ansari studied mathematics.
+204,Suhrawardi,scholar,1155 AD,1191 AD,3,,,brown,Suhrawardi founded Illuminationism.
+205,Birjandi,scholar,1500 AD,1574 AD,3,,,brown,Birjandi refined astronomy.
