@@ -5,6 +5,9 @@
     <script src="https://cdn.jsdelivr.net/npm/vis-timeline@7.7.2/standalone/umd/vis-timeline-graph2d.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/vis-timeline@7.7.2/styles/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+    <!-- Add html2canvas and jsPDF -->
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -14,6 +17,9 @@
         <label><input type="checkbox" id="showKings" checked> Kings</label>
         <label><input type="checkbox" id="showEvents" checked> Events</label>
         <label><input type="checkbox" id="showScholars" checked> Scholars</label>
+        <!-- Add export buttons -->
+        <button id="exportPng">Export as PNG</button>
+        <button id="exportPdf">Export as PDF</button>
     </div>
     <div id="visualization"></div>
 

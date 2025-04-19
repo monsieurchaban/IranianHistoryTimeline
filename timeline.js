@@ -29,8 +29,8 @@ function initTimeline() {
             return a.id === 'main' ? -1 : 1;
         },
         tooltip: {
-            followMouse: true, // Tooltip follows cursor
-            overflowMethod: 'cap' // Ensures tooltip stays within view
+            followMouse: true,
+            overflowMethod: 'cap'
         }
     };
 
@@ -62,7 +62,8 @@ function initTimeline() {
         else if (timeSpan > 1000) minSignificance = 4;
         else if (timeSpan > 500) minSignificance = 3;
         else if (timeSpan > 100) minSignificance = 2;
-        else minSignificance = 1;
+        else if (timeSpan > 50) minSignificance = 1;
+        else minSignificance = 0;
 
         const visibleItems = window.allItems.filter(item => 
             item.significance >= minSignificance &&
@@ -90,5 +91,44 @@ function initTimeline() {
         zoomable: true,
         moveable: true,
         selectable: true
+    });
+
+    // Add export functionality
+    const exportPngButton = document.getElementById('exportPng');
+    const exportPdfButton = document.getElementById('exportPdf');
+
+    exportPngButton.addEventListener('click', () => {
+        html2canvas(document.getElementById('visualization'), {
+            scale: 2, // Increase resolution for better quality
+            useCORS: true // Handle external images if any
+        }).then(canvas => {
+            const link = document.createElement('a');
+            link.download = 'iranian_history_timeline.png';
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+        }).catch(err => {
+            console.error('Error exporting PNG:', err);
+            alert('Failed to export PNG. Please try again.');
+        });
+    });
+
+    exportPdfButton.addEventListener('click', () => {
+        html2canvas(document.getElementById('visualization'), {
+            scale: 2,
+            useCORS: true
+        }).then(canvas => {
+            const imgData = canvas.toDataURL('image/png');
+            const { jsPDF } = window.jspdf;
+            const pdf = new jsPDF({
+                orientation: canvas.width > canvas.height ? 'landscape' : 'portrait',
+                unit: 'px',
+                format: [canvas.width, canvas.height]
+            });
+            pdf.addImage(imgData, 'PNG', 0, 0, canvas.width, canvas.height);
+            pdf.save('iranian_history_timeline.pdf');
+        }).catch(err => {
+            console.error('Error exporting PDF:', err);
+            alert('Failed to export PDF. Please try again.');
+        });
     });
 }

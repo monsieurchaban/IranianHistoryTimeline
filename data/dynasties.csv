@@ -1,0 +1,41 @@
+name,type,start_date,end_date,significance,dynasty_id,image,color,description
+Elamite Kingdom,dynasty,2700 BC,539 BC,4,,,#FF6F61,An ancient civilization in southwestern Iran.
+Median Empire,dynasty,678 BC,549 BC,4,,,#6B5B95,Unified Iran before the Achaemenid rise.
+Achaemenid Empire,dynasty,550 BC,330 BC,5,,,#88B04B,Founded by Cyrus it became a vast empire.
+Seleucid Empire,dynasty,312 BC,63 BC,4,,,#F7CAC9,Hellenistic rule followed Alexander’s conquests.
+Parthian Empire,dynasty,247 BC,224 AD,5,,,#92A8D1,Famed for archery and Roman resistance.
+Greco-Bactrian Kingdom,dynasty,256 BC,125 BC,3,,,#955251,A Hellenistic state in Central Asia.
+Sasanian Empire,dynasty,224 AD,651 AD,5,,,#B565A7,The last pre-Islamic Persian empire.
+Umayyad Caliphate,dynasty,661 AD,750 AD,4,,,#009B77,Introduced Islam to Persian lands.
+Abbasid Caliphate,dynasty,750 AD,1258 AD,5,,,#DD4124,Cultural golden age under Baghdad’s rule.
+Tahirid Dynasty,dynasty,821 AD,873 AD,3,,,#45B7D1,First semi-independent Persian rule.
+Saffarid Dynasty,dynasty,861 AD,1003 AD,3,,,#FFD700,Ya'qub Saffari defied Abbasid control.
+Samanid Empire,dynasty,819 AD,999 AD,4,,,#4682B4,Revived Persian language and culture.
+Buyid Dynasty,dynasty,934 AD,1062 AD,4,,,#DAA520,Shia rulers dominated western Iran.
+Ghaznavid Dynasty,dynasty,977 AD,1186 AD,4,,,#9ACD32,Mahmud expanded into India.
+Seljuk Empire,dynasty,1037 AD,1194 AD,5,,,#CD5C5C,Turkish dynasty reshaped Persia.
+Khwarazmian Dynasty,dynasty,1077 AD,1231 AD,4,,,#FF4500,Fell to Mongol invasions.
+Ilkhanate,dynasty,1256 AD,1335 AD,4,,,#20B2AA,Mongol rulers adopted Persian ways.
+Muizzuddin Dynasty,dynasty,1206 AD,1290 AD,3,,,#8A2BE2,Ghorid successors ruled briefly.
+Timurid Empire,dynasty,1370 AD,1507 AD,5,,,#FF1493,Timur’s empire mixed war and art.
+Chagatai Khanate,dynasty,1225 AD,1687 AD,3,,,#00CED1,Mongol rule lingered in the east.
+Safavid Empire,dynasty,1501 AD,1736 AD,5,,,#FFA500,Established Shia Islam in Persia.
+Afsharid Dynasty,dynasty,1736 AD,1796 AD,4,,,#32CD32,Nader Shah’s brief but powerful reign.
+Zand Dynasty,dynasty,1751 AD,1794 AD,4,,,#9932CC,Karim Khan brought stability.
+Qajar Dynasty,dynasty,1789 AD,1925 AD,5,,,#00FF7F,Modernized Persia under pressure.
+Pahlavi Dynasty,dynasty,1925 AD,1979 AD,5,,,#FF69B4,Reza Shah reformed Iran.
+Deylaman Dynasty,dynasty,928 AD,1090 AD,3,,,#ADFF2F,Minor Shia rule in the north.
+Ziyarid Dynasty,dynasty,931 AD,1090 AD,3,,,#FF6347,Controlled Caspian regions.
+Jalayirid Dynasty,dynasty,1335 AD,1432 AD,3,,,#40E0D0,Mongol successors in western Iran.
+Marashis,dynasty,1359 AD,1596 AD,2,,,#DC143C,Local rule in Mazandaran.
+Hotak Dynasty,dynasty,1709 AD,1738 AD,3,,,#7B68EE,Afghan dynasty briefly held Persia.
+Kara Koyunlu,dynasty,1375 AD,1468 AD,4,,,#FF00FF,Turkmen rulers opposed Timurids.
+Aq Qoyunlu,dynasty,1378 AD,1508 AD,4,,,#00FA9A,Rivaled Ottomans in the east.
+Shamlu Tribe,dynasty,1500 AD,1722 AD,2,,,#1E90FF,Qizilbash tribe under Safavids.
+Kayanian Dynasty,dynasty,1500 BC,1000 BC,3,,,#FF4500,Legendary rulers in Persian myth.
+Mannaeans,dynasty,850 BC,616 BC,3,,,#DDA0DD,Northwestern Iranian kingdom.
+Urartu,dynasty,860 BC,590 BC,3,,,#9B30FF,Rivaled Assyria near Lake Van.
+Neo-Elamite,dynasty,743 BC,539 BC,0.1,,,#FFDAB9,Revived Elamite power briefly.
+Scythians,dynasty,800 BC,300 BC,3,,,#7CFC00,Nomadic rulers in the steppe.
+Kushan Empire,dynasty,30 AD,375 AD,4,,,#BA55D3,Controlled eastern Persian lands.
+Alid Dynasties,dynasty,864 AD,1124 AD,3,,,#66CDAA,Shia rulers in northern Iran.

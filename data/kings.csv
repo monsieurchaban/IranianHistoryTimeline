@@ -1,0 +1,131 @@
+name,type,start_date,end_date,significance,dynasty_name,image,color,description
+Shamkir,king,2700 BC,2680 BC,2,Elamite Kingdom,,,Shamkir ruled early Elamite lands.
+Awan,king,2600 BC,2580 BC,2,Elamite Kingdom,,,Awan expanded Elamite influence.
+Cyaxares,king,625 BC,585 BC,4,Median Empire,,,Cyaxares built Median power.
+Astyages,king,585 BC,550 BC,4,Median Empire,,,Astyages fell to Cyrus.
+Cyrus the Great,king,559 BC,530 BC,5,Achaemenid Empire,,,Cyrus founded the Achaemenid Empire.
+Cambyses II,king,530 BC,522 BC,4,Achaemenid Empire,,,Cambyses II took Egypt.
+Darius I,king,522 BC,486 BC,5,Achaemenid Empire,,,Darius I built Persepolis.
+Xerxes I,king,486 BC,465 BC,4,Achaemenid Empire,,,Xerxes I invaded Greece.
+Artaxerxes I,king,465 BC,424 BC,3,Achaemenid Empire,,,Artaxerxes I stabilized rule.
+Darius III,king,336 BC,330 BC,4,Achaemenid Empire,,,Darius III lost to Alexander.
+Seleucus I,king,312 BC,281 BC,4,Seleucid Empire,,,Seleucus I founded the Seleucid state.
+Antiochus III,king,223 BC,187 BC,4,Seleucid Empire,,,Antiochus III fought Rome.
+Arsaces I,king,247 BC,211 BC,4,Parthian Empire,,,Arsaces I began Parthian rule.
+Mithridates I,king,171 BC,138 BC,5,Parthian Empire,,,Mithridates I expanded Parthia.
+Orodes II,king,57 BC,37 BC,4,Parthian Empire,,,Orodes II defeated Crassus.
+Phraates IV,king,37 BC,2 BC,3,Parthian Empire,,,Phraates IV faced Roman plots.
+Artabanus I,king,127 BC,124 BC,2,Parthian Empire,,,Artabanus I ruled briefly.
+Phraates II,king,132 BC,127 BC,3,Parthian Empire,,,Phraates II repelled invaders.
+Mithridates II,king,123 BC,88 BC,4,Parthian Empire,,,Mithridates II strengthened Parthia.
+Demetrius II,king,145 BC,138 BC,3,Greco-Bactrian Kingdom,,,Demetrius II ruled Greco-Bactria.
+Ardashir I,king,224 AD,242 AD,5,Sasanian Empire,,,Ardashir I founded the Sasanian Empire.
+Shapur I,king,242 AD,272 AD,5,Sasanian Empire,,,Shapur I captured Valerian.
+Shapur II,king,309 AD,379 AD,4,Sasanian Empire,,,Shapur II regained territories.
+Yazdegerd I,king,399 AD,420 AD,3,Sasanian Empire,,,Yazdegerd I tolerated Christians.
+Bahram V,king,420 AD,438 AD,3,Sasanian Empire,,,Bahram V was a skilled hunter.
+Khosrow I,king,531 AD,579 AD,5,Sasanian Empire,,,Khosrow I reformed the state.
+Hormizd IV,king,579 AD,590 AD,3,Sasanian Empire,,,Hormizd IV faced revolts.
+Khosrow II,king,590 AD,628 AD,4,Sasanian Empire,,,Khosrow II warred with Byzantium.
+Yazdegerd III,king,632 AD,651 AD,4,Sasanian Empire,,,Yazdegerd III lost to Arabs.
+Muawiyah I,king,661 AD,680 AD,4,Umayyad Caliphate,,,Muawiyah I founded Umayyad rule.
+Yazid I,king,680 AD,683 AD,3,Umayyad Caliphate,,,Yazid I faced Karbala.
+Harun al-Rashid,king,786 AD,809 AD,5,Abbasid Caliphate,,,Harun led a cultural peak.
+Al-Ma’mun,king,813 AD,833 AD,4,Abbasid Caliphate,,,Al-Ma’mun advanced science.
+Al-Mu’tasim,king,833 AD,842 AD,3,Abbasid Caliphate,,,Al-Mu’tasim shifted the capital.
+Al-Mutawakkil,king,847 AD,861 AD,3,Abbasid Caliphate,,,Al-Mutawakkil built mosques.
+Tahir ibn Husayn,king,821 AD,822 AD,3,Tahirid Dynasty,,,Tahir gained Persian autonomy.
+Ya'qub Saffari,king,861 AD,879 AD,4,Saffarid Dynasty,,,Ya'qub defied Abbasid rule.
+Amr ibn Layth,king,879 AD,901 AD,3,Saffarid Dynasty,,,Amr expanded Saffarid lands.
+Isma’il Samani,king,892 AD,907 AD,4,Samanid Empire,,,Isma’il revived Persian culture.
+Ahmad Samani,king,907 AD,914 AD,3,Samanid Empire,,,Ahmad continued Samanid rule.
+Adud al-Dawla,king,949 AD,983 AD,4,Buyid Dynasty,,,Adud al-Dawla unified Buyids.
+Mahmud of Ghazni,king,998 AD,1030 AD,5,Ghaznavid Dynasty,,,Mahmud raided India often.
+Mas’ud I,king,1030 AD,1040 AD,3,Ghaznavid Dynasty,,,Mas’ud I lost to Seljuks.
+Tughril Beg,king,1037 AD,1063 AD,4,Seljuk Empire,,,Tughril Beg founded Seljuk rule.
+Alp Arslan,king,1063 AD,1072 AD,5,Seljuk Empire,,,Alp Arslan won at Manzikert.
+Malik-Shah I,king,1072 AD,1092 AD,4,Seljuk Empire,,,Malik-Shah I stabilized Persia.
+Sanjar,king,1118 AD,1157 AD,4,Seljuk Empire,,,Sanjar ruled a vast domain.
+Shah Ala al-Din,king,1157 AD,1194 AD,3,Seljuk Empire,,,Shah Ala al-Din ended Seljuks.
+Tekish,king,1172 AD,1200 AD,3,Khwarazmian Dynasty,,,Tekish defied the caliph.
+Jalal al-Din,king,1220 AD,1231 AD,4,Khwarazmian Dynasty,,,Jalal al-Din fought Mongols.
+Hulagu Khan,king,1256 AD,1265 AD,5,Ilkhanate,,,Hulagu Khan sacked Baghdad.
+Abaqa Khan,king,1265 AD,1282 AD,4,Ilkhanate,,,Abaqa Khan ruled firmly.
+Ghazan Khan,king,1295 AD,1304 AD,4,Ilkhanate,,,Ghazan Khan embraced Islam.
+Muhammad Khudabanda,king,1304 AD,1316 AD,3,Ilkhanate,,,Muhammad ruled Ilkhanate.
+Muhammad bin Tughluq,king,1220 AD,1250 AD,2,Muizzuddin Dynasty,,,Muhammad ruled Muizzuddin briefly.
+Timur,king,1370 AD,1405 AD,5,Timurid Empire,,,Timur conquered ruthlessly.
+Shah Rukh,king,1405 AD,1447 AD,4,Timurid Empire,,,Shah Rukh fostered arts.
+Ulugh Beg,king,1417 AD,1449 AD,3,Timurid Empire,,,Ulugh Beg studied astronomy.
+Sultan Husayn Bayqara,king,1469 AD,1506 AD,3,Timurid Empire,,,Sultan Husayn patronized poets.
+Uzun Hasan,king,1453 AD,1478 AD,3,Timurid Empire,,,Uzun Hasan fought Ottomans.
+Mahmud Khan,king,1488 AD,1508 AD,2,Chagatai Khanate,,,Mahmud ruled Chagatai briefly.
+Ismail I,king,1501 AD,1524 AD,5,Safavid Empire,,,Ismail I made Shia official.
+Shah Tahmasp I,king,1524 AD,1576 AD,4,Safavid Empire,,,Shah Tahmasp I resisted Uzbeks.
+Shah Abbas I,king,1588 AD,1629 AD,5,Safavid Empire,,,Shah Abbas I built Isfahan.
+Shah Safi,king,1629 AD,1642 AD,3,Safavid Empire,,,Shah Safi faced decline.
+Shah Abbas II,king,1642 AD,1666 AD,3,Safavid Empire,,,Shah Abbas II stabilized rule.
+Shah Suleiman,king,1666 AD,1694 AD,3,Safavid Empire,,,Shah Suleiman saw decline.
+Shah Sultan Husayn,king,1694 AD,1722 AD,3,Safavid Empire,,,Shah Sultan Husayn lost to Afghans.
+Nader Shah,king,1736 AD,1747 AD,5,Afsharid Dynasty,,,Nader Shah restored Persian might.
+Adil Shah,king,1747 AD,1748 AD,2,Afsharid Dynasty,,,Adil Shah ruled briefly.
+Shahrokh Shah,king,1748 AD,1796 AD,3,Afsharid Dynasty,,,Shahrokh Shah faced chaos.
+Karim Khan Zand,king,1751 AD,1779 AD,4,Zand Dynasty,,,Karim Khan ruled with mercy.
+Lotf Ali Khan,king,1789 AD,1794 AD,3,Zand Dynasty,,,Lotf Ali Khan lost to Qajars.
+Agha Mohammad Khan,king,1789 AD,1797 AD,4,Qajar Dynasty,,,Agha Mohammad Khan founded Qajar rule.
+Fath-Ali Shah,king,1797 AD,1834 AD,4,Qajar Dynasty,,,Fath-Ali Shah lost to Russia.
+Muhammad Shah Qajar,king,1834 AD,1848 AD,3,Qajar Dynasty,,,Muhammad Shah fought rebels.
+Nasir al-Din Shah,king,1848 AD,1896 AD,4,Qajar Dynasty,,,Nasir al-Din Shah modernized slowly.
+Mozaffar ad-Din Shah,king,1896 AD,1907 AD,3,Qajar Dynasty,,,Mozaffar granted a constitution.
+Muhammad Ali Shah,king,1907 AD,1909 AD,3,Qajar Dynasty,,,Muhammad Ali Shah opposed reforms.
+Ahmad Shah Qajar,king,1909 AD,1925 AD,3,Qajar Dynasty,,,Ahmad Shah saw Qajar end.
+Reza Shah Pahlavi,king,1925 AD,1941 AD,4,Pahlavi Dynasty,,,Reza Shah modernized Iran.
+Mohammad Reza Shah Pahlavi,king,1941 AD,1979 AD,4,Pahlavi Dynasty,,,Mohammad Reza Shah faced revolution.
+Humban-Tahrah,king,2500 BC,2480 BC,2,Elamite Kingdom,,,Humban-Tahrah led Elamite tribes.
+Artaxerxes II,king,404 BC,358 BC,3,Achaemenid Empire,,,Artaxerxes II faced rebellions.
+Antiochus IV,king,175 BC,164 BC,3,Seleucid Empire,,,Antiochus IV clashed with Jews.
+Phraates I,king,176 BC,171 BC,2,Parthian Empire,,,Phraates I expanded Parthia.
+Vologases I,king,51 AD,78 AD,3,Parthian Empire,,,Vologases I fought Rome.
+Bahram I,king,271 AD,274 AD,2,Sasanian Empire,,,Bahram I ruled briefly.
+Narseh,king,293 AD,302 AD,2,Sasanian Empire,,,Narseh lost to Rome.
+Hormizd I,king,270 AD,271 AD,1,Sasanian Empire,,,Hormizd I had a short reign.
+Abd al-Malik,king,685 AD,705 AD,3,Umayyad Caliphate,,,Abd al-Malik reformed coins.
+Al-Mansur,king,754 AD,775 AD,4,Abbasid Caliphate,,,Al-Mansur founded Baghdad.
+Tahir II,king,845 AD,862 AD,2,Tahirid Dynasty,,,Tahir II ruled Khorasan.
+Nasr I,king,864 AD,892 AD,3,Samanid Empire,,,Nasr I stabilized Samanids.
+Fakhr al-Dawla,king,976 AD,997 AD,3,Buyid Dynasty,,,Fakhr al-Dawla held Shiraz.
+Toghrul II,king,1132 AD,1134 AD,2,Seljuk Empire,,,Toghrul II ruled briefly.
+Arghun,king,1284 AD,1291 AD,3,Ilkhanate,,,Arghun ruled Ilkhanate.
+Abu Sa’id,king,1316 AD,1335 AD,3,Ilkhanate,,,Abu Sa’id ended Ilkhanate.
+Qara Yusuf,king,1388 AD,1420 AD,3,Kara Koyunlu,,,Qara Yusuf led Kara Koyunlu.
+Jahan Shah,king,1438 AD,1467 AD,3,Kara Koyunlu,,,Jahan Shah fought Timurids.
+Yakub Beg,king,1467 AD,1490 AD,3,Aq Qoyunlu,,,Yakub Beg ruled Aq Qoyunlu.
+Shah Ismail II,king,1576 AD,1577 AD,2,Safavid Empire,,,Shah Ismail II ruled briefly.
+Ibrahim Afshar,king,1748 AD,1749 AD,2,Afsharid Dynasty,,,Ibrahim Afshar ruled briefly.
+Jafar Khan,king,1785 AD,1789 AD,2,Zand Dynasty,,,Jafar Khan ruled Zand briefly.
+Kiumarth,king,1500 BC,1480 BC,2,Kayanian Dynasty,,,Kiumarth is a mythic king.
+Hushang,king,1480 BC,1460 BC,2,Kayanian Dynasty,,,Hushang taught fire use.
+Tahmuras,king,1460 BC,1440 BC,2,Kayanian Dynasty,,,Tahmuras fought demons.
+Jamshid,king,1440 BC,1420 BC,3,Kayanian Dynasty,,,Jamshid ruled a golden age.
+Hakhamanish,king,700 BC,675 BC,2,Achaemenid Empire,,,Hakhamanish founded Achaemenid line.
+Chishpish,king,675 BC,650 BC,2,Achaemenid Empire,,,Chishpish ruled early Achaemenids.
+Vologases II,king,77 AD,80 AD,2,Parthian Empire,,,Vologases II ruled Parthia briefly.
+Pacorus II,king,78 AD,105 AD,3,Parthian Empire,,,Pacorus II resisted Rome.
+Osroes I,king,109 AD,129 AD,2,Parthian Empire,,,Osroes I faced Trajan.
+Tiridates I,king,63 AD,100 AD,3,Parthian Empire,,,Tiridates I was crowned by Nero.
+Bahram II,king,274 AD,283 AD,2,Sasanian Empire,,,Bahram II ruled Sasanians.
+Bahram III,king,283 AD,283 AD,1,Sasanian Empire,,,Bahram III reigned briefly.
+Shapur III,king,383 AD,388 AD,2,Sasanian Empire,,,Shapur III made peace with Rome.
+Yazdegerd II,king,438 AD,457 AD,3,Sasanian Empire,,,Yazdegerd II fought Huns.
+Hormizd II,king,302 AD,309 AD,2,Sasanian Empire,,,Hormizd II ruled briefly.
+Bahram IV,king,388 AD,399 AD,2,Sasanian Empire,,,Bahram IV ruled quietly.
+Al-Walid I,king,705 AD,715 AD,3,Umayyad Caliphate,,,Al-Walid I expanded Umayyads.
+Umar II,king,717 AD,720 AD,3,Umayyad Caliphate,,,Umar II reformed justly.
+Al-Mu’tadid,king,892 AD,902 AD,3,Abbasid Caliphate,,,Al-Mu’tadid regained power.
+Al-Muktafi,king,902 AD,908 AD,2,Abbasid Caliphate,,,Al-Muktafi ruled Abbasids.
+Nasr II,king,914 AD,943 AD,3,Samanid Empire,,,Nasr II faced rebellions.
+Rukn al-Dawla,king,935 AD,976 AD,3,Buyid Dynasty,,,Rukn al-Dawla held Buyid power.
+Barkiyaruq,king,1094 AD,1105 AD,3,Seljuk Empire,,,Barkiyaruq fought kin.
+Muhammad I Tapar,king,1105 AD,1118 AD,3,Seljuk Empire,,,Muhammad I stabilized Seljuks.
+Al-Mustarshid,king,1118 AD,1135 AD,2,Abbasid Caliphate,,,Al-Mustarshid defied Seljuks.
+Abu Kalijar,king,1024 AD,1048 AD,2,Buyid Dynasty,,,Abu Kalijar ruled Buyids.
