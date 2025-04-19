@@ -1,6 +1,6 @@
 # Iranian History Timeline
 
-![Iranian History Timeline][thumbs/header.gif]
+![Iranian History Timeline](thumbs/header.gif)
 
 The **Iranian History Timeline** is an interactive web application that visualizes Iran’s historical narrative, spanning from the Elamite Kingdom (2700 BC) to the 1979 Islamic Revolution. This tool enables users to explore dynasties, rulers, scholars, and significant events through a dynamic, zoomable timeline, with features for filtering categories and exporting views as PNG or PDF.
 
